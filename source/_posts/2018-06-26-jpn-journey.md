@@ -25,7 +25,7 @@ date: 2018-06-26
 这里的步骤稍微有些麻烦，需要网上填写好信息，因为已经有了ICOCA卡，所以下拉列表里要选择ICOCA holders的个数。护照号、邮箱地址一定要填写正确，目的地因为博主是去京都，所以选择
 Kyoto, Saga-Arashiyama。最后点击Confirm，收到邮件后用A4纸打印出来放到包包里一起带到关西机场。大概是中午11点半到达JR列车的购票处，似乎这个时间段只有我们这一架飞机，没有什么人排队，直接进去和中文的导购妹子说你有ICOCA卡，需要买HARUKA单程票就可以了（其他所有的有效信息都在打印的单子上，递出去给导购），现金1600日元，她会很快的把车票给你。这样的流程是最快的，当然你什么卡都不买也行，直接在这里买ICOCA&HARUKA折扣券，会多花2000日元ICOCA卡的价格，价格上也没有不一样。
 
-![](http://oo55v79zw.bkt.clouddn.com/icoca.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/icoca.jpg)
 
 
 ----------
@@ -51,15 +51,15 @@ Kyoto, Saga-Arashiyama。最后点击Confirm，收到邮件后用A4纸打印出�
 
 清水寺
 
-![](http://oo55v79zw.bkt.clouddn.com/001.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/001.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/003.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/003.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/006.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/006.jpg)
 
 花见小路
 
-![](http://oo55v79zw.bkt.clouddn.com/009.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/009.jpg)
 
 
 
@@ -67,20 +67,20 @@ Kyoto, Saga-Arashiyama。最后点击Confirm，收到邮件后用A4纸打印出�
 
 二条城是德川家康的府邸，门票成人600日元，外部是白墙，建筑内部不允许拍照，进入要脱鞋，内部环境给人以肃穆宁静的感觉。过道的地板，踏上去会发出鸟鸣般的声响，据说是警示有人入侵的作用。开个玩笑，在里面走着，会不会不小心碰到什么暗道机关，来个万箭齐发：）
 
-![](http://oo55v79zw.bkt.clouddn.com/022.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/022.jpg)
 
 
 ### 锦市场
 
 看了外国人常乐在锦市场的视频，所以决定一定要去看下，找到了那家可以生吃海产品的店铺，吃了点生的金枪鱼，建议对生的海产品不适应的朋友，可以少吃一点，否则可能会导致腹泻。锦市场里的烤生蚝，平均价格比魔都要贵上三倍，1000日元，魔都的饭店单卖的烤生蚝里要12元以上一个，没有锦市场的生蚝大。生金枪鱼算是比较实惠的海鲜，500日元一份，烤扇贝，3个一串，500日元，推荐尝试下。如果对食材有特殊喜好的，可以尝试下海胆和河豚。
 
-![](http://oo55v79zw.bkt.clouddn.com/023.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/023.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/010.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/010.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/011.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/011.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/012.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/012.jpg)
 
 
 ----------
@@ -92,9 +92,9 @@ Kyoto, Saga-Arashiyama。最后点击Confirm，收到邮件后用A4纸打印出�
 
 去奈良主要就是喂奈良公园的小鹿，公交车可以直接开进去，不需要门票。值得一提的是，日本的公交车后门是自动的拉门，前门和国内一样，是折叠式，京都是从后门上车，奈良是从前门上车，走的时候到前门下，投硬币或刷企鹅卡即可。京都的公交，如果前门下车的人很多，司机还会控制后门先不开启，不让乘客上来，等车内乘客都下的差不多了，才开启后门，以保证车内的秩序，给点个赞。还有就是日本的公交车上，几乎每个位置边上都有红色的按钮，如果你需要在两站之间下车，直接按按钮，司机就会缓缓的为你停车（有没有一种休闲的感觉）。喂鹿需要买鹿饼，150元一包，圆圆的，大概有10个，闻上去很香，记得买完不要把饼放在明面儿上让鹿看到，不然附近的它们会开始“围攻”你，所以最好是离鹿群远一些。除了一些长角的雄鹿“不太友好”之外，大部分的鹿都很有礼貌，博主找了一只“有礼貌”的小鹿，单独喂，喂之前它不断的点头“鞠躬”，真是可爱。到了奈良千万不要错过和小鹿们近距离接触的机会，这和在动物园里隔着铁笼的体验是不一样的。
 
-![](http://oo55v79zw.bkt.clouddn.com/013.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/013.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/014.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/014.jpg)
 
 
 ----------
@@ -110,23 +110,23 @@ Kyoto, Saga-Arashiyama。最后点击Confirm，收到邮件后用A4纸打印出�
 
 环球影城的饮食，博主买了个火鸡腿，1000日元，后来在另外一家摊位发现有980日元的火鸡腿。魔都迪士尼的火鸡腿目前是80元。天热，点个芒果雪糕是不错的选择，价格是500日元。
 
-![](http://oo55v79zw.bkt.clouddn.com/19.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/19.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/016.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/016.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/020.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/020.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/25.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/25.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/26.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/26.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/017.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/017.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/018.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/018.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/021.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/021.jpg)
 
-![](http://oo55v79zw.bkt.clouddn.com/24.jpg-640480)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/24.jpg)
 
 
 乐园里的工作人员都很热情，会和你进行互动，比如在游玩时会和你招手，游玩结束时双手和你击掌。很多工作人员待人接物的时候一直在微笑，如果不是发自内心，是无法将笑容保持这么久的。
