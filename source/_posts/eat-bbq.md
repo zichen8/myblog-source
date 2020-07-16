@@ -10,11 +10,10 @@ date: 2020-07-10
 
 店内有很多屏幕，都应该是LED超薄屏吧，离我最近屏幕的图案是白云和不断飘落的花瓣。让我想到了《西部世界》第三部，地铁里那个有红鲤鱼游动的屏幕。
 
-![](https://ali.xmssdn.micloud.mi.com/2/1566455553514/get_thumbnail?sig=h_TU47b_xI9H1gixK7izS00BraE&data=Rz0-Hm6rRUIda6abug2uXQDAzjvTwK3z7JpDDfXQOqg4DlQpthkrseE0H8zjAqDWYYrQWjFC6syuKrWoaoMeDN46TTGS2srQmdOQUHhXTs3Y7HGxQZVvKn88qUklq8STlcShpRORXdmnXEdfvR0G4X0KvpS0LcqFq1r--DeyK9Fe5VvL86ddIfbK10rJO6GvclYhMbv627qEX_V8EGaN5f3jHhwSIDnRqINL7ycJoK0J4DX4T9D9Ggg4-nbDygyOjqDY7QdJ9kYIPMY-89zElSkflixkB7xbUZ9RH5Gb2AtlPDJ8qf5M5leoQzf5mWjKtCC21T0jA2TK5Q&ts=1594438889908&w=1080&h=1080&r=0&_cachekey=03e49e3955470bd5e4ee8dee41e6e0ed)
+![](https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/IMG_20200709_185822.jpg)
 
 吃烤串有专门的架子，架子的宽度比烤串长度短一些，在接近烤串两端的位置各有十几个齿轮，可以360度转动，这样就不用人工来翻转烤串了，是一个聪明的发明。
 
-<video src="https://ali.xmssdn.micloud.mi.com/2/1566455553514/download_file?attachment=0&fn=&ct=video%2Fmp4&meta=QzFbcRRmc2Qbn_QG9pbZmHrJloQX_U1rf9-791M3VvfWz4LD3MRSeGM9trfAyp0qA-PX8cZBkIkuYMrjLL6fROsB0MGHXV9MI0vfOPEir4O1t5uqOvWsOJFLMpAnsstkvTTbZ9NmHYDCGm9mn2NZ0AwA1qTAB9zz-wjCpuo0r8ujI8PcSdrPs-rFqdWjvQ2yoyi-SY2mxAnSg_uZ4H84Y0eJQg4z3wvvd3fMSTSyghWY-6MulSuvDdwWl1FCIXymj_LO3fNZ&ts=1594439158720&sig=xXy3Z-Qv8MHXxN_NyP4IlaVcXtg&_cachekey=f898fe5c1511af66347ced547cd03acf" controls="controls"></video>
 
 关于吃肉和佛教，上座部一直的传承是，佛陀从来没有说不能吃肉，实际上出家人托钵，是接受在家居士供养的包括荤菜之内所有食物的，不挑剔。在家的修行者，需要注意至少要持五戒，而且吃食物时尽量少升起贪根心，保持打坐周围环境的整洁舒适，这样打坐的时候容易升起轻安。
 

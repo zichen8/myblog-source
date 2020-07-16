@@ -4,11 +4,69 @@
   
     
     <entry>
+      <title>注解</title>
+      <link href="/2020/07/16/value-annotation/"/>
+      <url>/2020/07/16/value-annotation/</url>
+      
+        <content type="html"><![CDATA[<p>在java类中用@Value注解，读取application.yml的属性，并绑定变量，代码如下<a id="more"></a></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">@Value(&quot;$&#123;myjwt.tokenExpireTime&#125;&quot;)</span><br><span class="line">public Integer tokenExpireTime;</span><br></pre></td></tr></table></figure><br>application.yml<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">myjwt:</span><br><span class="line">  tokenExpireTime: 1024</span><br></pre></td></tr></table></figure><p>用Alt+Enter键自动引用了 “lombok.Value” 包，结果@Value这行标注红字，编译无法通过。</p><p>后来在网上搜到问题所在，此时要导入的Value的包不是lombok.Value,而是org.springframework.beans.factory.annotation.Value，<br>更换了导入包，则问题解决。</p><p>lombok里@Value的用法：注解在类上，相当于为属性添加 final 声明，只提供 getter 方法，而不提供 setter 方法。</p><p>Java的一个“暴力”美学之处在于注解，可省略很多重复性的代码。在方法上加注解可以实现很多复杂功能，并且方法内部无代码侵入，比如Redisson的分布式锁，<br>最近在学习<a href="https://gitee.com/ztp/redisson-spring-boot-starter" target="_blank" rel="noopener">redisson-spring-boot-starter</a>，开源软件，支持多种上锁方式，<br>注解是@Lock。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> code </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+            <tag> lombok </tag>
+            
+            <tag> redisson </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>看淡今朝</title>
+      <link href="/2020/07/11/let-it-go-today/"/>
+      <url>/2020/07/11/let-it-go-today/</url>
+      
+        <content type="html"><![CDATA[<p>今天发现上一篇文章引用小米相册的照片和视频，都无法在博文里显示了，原来小米相册里文件的地址是动态生成的，一天时间左右，链接就变化了，无法外链。<a id="more"></a>没办法，老老实实只能重新用Github上传照片，而Github本身不支持外链视频，这样视频也没法显示了。</p><p>今天晚上在四念处学习群里听南达悉谛长老开示，开示后有提问环节，长老的中文没有英文熟练，有贤友作为主持人翻译或转达问题给长老。我提了一个问题，也是一直很想问的：怎么知道自己适合四十种业处中的哪一种，需要自己每一种都试过来吗？</p><p>等提问后，主持人说我们这里的学习主要是四念处，先不予回答，如果有问题可以后续微信联系我们的师兄。这时我才意识到这个问题不适宜。我上网搜了下四十种业处，原来都和止禅有关。之前一直以为四十种业处和观禅也有关系，原来根本没关系。观禅只认为有两种业处，名业处和色业处。所以个人感觉观禅不强调业处，只强调念处（四种：身念处、受念处、心念处、法念处）。</p><p>以后面对面的小参也要注意根据导师的专长范围去提问，不能问超过范围的问题（类似于编程语言中的.Net和Java之分）。我潜在的问题其实是导师能否知道学生适合止禅还是观禅，而实际上导师一般只精通止禅或观禅的一种，大概率是不知道学生适合哪种的，所以希望导师能正确的对学生做出这种“定性”的引导，概率是非常小的。就算导师告诉你适合哪种，还是需要自己去尝试，从入出息念或身念处（观腹部起伏）等主流的试起来，求人不如求己啊。</p><p>其实，学禅也有派系，学禅也有一个“江湖”，分了止禅和观禅，就已经是两种截然不同的方向了。这世上人多了就有江湖，江湖没有完美，总有得意和失意。漂泊四海后，还是看淡今朝为好。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> daily </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 小米 </tag>
+            
+            <tag> 观禅 </tag>
+            
+            <tag> 相册 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>吃烤串</title>
       <link href="/2020/07/10/eat-bbq/"/>
       <url>/2020/07/10/eat-bbq/</url>
       
-        <content type="html"><![CDATA[<p><strong>昨天打坐效果不是特别好，只坐了2个小时。修行就是这样，偶尔有惊喜，大部分时间没有进步、平平无奇。晚上本想着在外面随便吃点，在富荟广场逛着逛着，发现新开了一个店，叫三个蒙古大叔烤羊肉串，进去吃了顿饭。</strong><a id="more"></a></p><p>店内有很多屏幕，都应该是LED超薄屏吧，离我最近屏幕的图案是白云和不断飘落的花瓣。让我想到了《西部世界》第三部，地铁里那个有红鲤鱼游动的屏幕。</p><p><img src="https://ali.xmssdn.micloud.mi.com/2/1566455553514/get_thumbnail?sig=h_TU47b_xI9H1gixK7izS00BraE&data=Rz0-Hm6rRUIda6abug2uXQDAzjvTwK3z7JpDDfXQOqg4DlQpthkrseE0H8zjAqDWYYrQWjFC6syuKrWoaoMeDN46TTGS2srQmdOQUHhXTs3Y7HGxQZVvKn88qUklq8STlcShpRORXdmnXEdfvR0G4X0KvpS0LcqFq1r--DeyK9Fe5VvL86ddIfbK10rJO6GvclYhMbv627qEX_V8EGaN5f3jHhwSIDnRqINL7ycJoK0J4DX4T9D9Ggg4-nbDygyOjqDY7QdJ9kYIPMY-89zElSkflixkB7xbUZ9RH5Gb2AtlPDJ8qf5M5leoQzf5mWjKtCC21T0jA2TK5Q&ts=1594438889908&w=1080&h=1080&r=0&_cachekey=03e49e3955470bd5e4ee8dee41e6e0ed" alt=""></p><p>吃烤串有专门的架子，架子的宽度比烤串长度短一些，在接近烤串两端的位置各有十几个齿轮，可以360度转动，这样就不用人工来翻转烤串了，是一个聪明的发明。</p><p><video src="https://ali.xmssdn.micloud.mi.com/2/1566455553514/download_file?attachment=0&fn=&ct=video%2Fmp4&meta=QzFbcRRmc2Qbn_QG9pbZmHrJloQX_U1rf9-791M3VvfWz4LD3MRSeGM9trfAyp0qA-PX8cZBkIkuYMrjLL6fROsB0MGHXV9MI0vfOPEir4O1t5uqOvWsOJFLMpAnsstkvTTbZ9NmHYDCGm9mn2NZ0AwA1qTAB9zz-wjCpuo0r8ujI8PcSdrPs-rFqdWjvQ2yoyi-SY2mxAnSg_uZ4H84Y0eJQg4z3wvvd3fMSTSyghWY-6MulSuvDdwWl1FCIXymj_LO3fNZ&ts=1594439158720&sig=xXy3Z-Qv8MHXxN_NyP4IlaVcXtg&_cachekey=f898fe5c1511af66347ced547cd03acf" controls="controls"></video></p><p>关于吃肉和佛教，上座部一直的传承是，佛陀从来没有说不能吃肉，实际上出家人托钵，是接受在家居士供养的包括荤菜之内所有食物的，不挑剔。在家的修行者，需要注意至少要持五戒，而且吃食物时尽量少升起贪根心，保持打坐周围环境的整洁舒适，这样打坐的时候容易升起轻安。</p><p>最近一直在听uttama尊者的云禅修营的开示，好像尊者是在多伦多，到今天快结束的时候蹦出一两句搞笑的话。意思是说如果你工作非常忙碌，是很难升起正念正知的，如果不是太缺钱，这个家庭不是太困难，你为什么要干的那么辛苦呢？伟大的五蕴狗:)。</p><p>尊者的开示也不都是严肃刻板，也有风趣幽默，这也是心灵升华到一定程度自然产生的。希望自己能成为类似的人，不为外物所缚，即使失去很多，也能保持快乐的心境:)。</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>昨天打坐效果不是特别好，只坐了2个小时。修行就是这样，偶尔有惊喜，大部分时间没有进步、平平无奇。晚上本想着在外面随便吃点，在富荟广场逛着逛着，发现新开了一个店，叫三个蒙古大叔烤羊肉串，进去吃了顿饭。</strong><a id="more"></a></p><p>店内有很多屏幕，都应该是LED超薄屏吧，离我最近屏幕的图案是白云和不断飘落的花瓣。让我想到了《西部世界》第三部，地铁里那个有红鲤鱼游动的屏幕。</p><p><img src="https://cdn.jsdelivr.net/gh/zichen8/cdn-assets/IMG_20200709_185822.jpg" alt=""></p><p>吃烤串有专门的架子，架子的宽度比烤串长度短一些，在接近烤串两端的位置各有十几个齿轮，可以360度转动，这样就不用人工来翻转烤串了，是一个聪明的发明。</p><p>关于吃肉和佛教，上座部一直的传承是，佛陀从来没有说不能吃肉，实际上出家人托钵，是接受在家居士供养的包括荤菜之内所有食物的，不挑剔。在家的修行者，需要注意至少要持五戒，而且吃食物时尽量少升起贪根心，保持打坐周围环境的整洁舒适，这样打坐的时候容易升起轻安。</p><p>最近一直在听uttama尊者的云禅修营的开示，好像尊者是在多伦多，到今天快结束的时候蹦出一两句搞笑的话。意思是说如果你工作非常忙碌，是很难升起正念正知的，如果不是太缺钱，这个家庭不是太困难，你为什么要干的那么辛苦呢？伟大的五蕴狗:)。</p><p>尊者的开示也不都是严肃刻板，也有风趣幽默，这也是心灵升华到一定程度自然产生的。希望自己能成为类似的人，不为外物所缚，即使失去很多，也能保持快乐的心境:)。</p>]]></content>
       
       
       <categories>
