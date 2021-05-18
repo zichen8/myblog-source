@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>工作</title>
+      <link href="/2021/04/24/2021-04-24-recent-life/"/>
+      <url>/2021/04/24/2021-04-24-recent-life/</url>
+      
+        <content type="html"><![CDATA[<p><strong>最近工作还算顺利，专注的工作带来不少成果，和团队成员的配合还行。给自己打个7分吧。</strong><a id="more"></a></p><p>我们团队算是不折不扣的敏捷模式，每天早上10点左右15分钟的Daily会议,每两周Sprint结束后有Refine、Review、Retro会议（简称3R）。基本上来了3个多月也熟练了，<br>Scrum Master、Project Owner和开发小伙伴一起开会，领导一般不参与。代码提交Pull Request时会有Code Review，这个过程会在Web上进行Comments，<br>说实话我个人不太喜欢在Web上你一句我一句的Conversations，我喜欢面对面看着IDE工具Code Review然后直接提醒对方改掉。我之前的公司就是这么操作的，而且之前公司准备要进入敏捷模式，<br>似乎也被开发Manager推掉了(感觉是对我们的一种保护，不希望我们开发的时间被掌控的太紧)。 反正不管在Web还是IDE上Code Review，各有各的优缺点。前者公之于众，后者比较隐秘。</p><p>后续我需要注意：<br>1.尽量把分配给自己的事情完成，少给自己揽外部的活。尽管Scrum Master很信任我，总在聊天工具里让我处理一些项目总体的事情：）（正定，减少五盖中的散乱盖）<br>2.一定要确认这次Sprint结束后上线的代码和需求（和Story有时候不一样，Story的表达有时候是按照业务来划分的），有时候随着Sprint进行，受上头领导的影响，范围会变（无常观）。<br>3.尽量少用聊天工具沟通工作，尤其是Sprint一开始讨论技术实现思路的时候，因为打字相对比较耗力耗时，口头沟通可以做到一鼓作气。（正精进）<br>4.真觉得没事情做，不想看电脑也不想听耳机，可以闭上眼睛休息。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> daily </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工作 </tag>
+            
+            <tag> 敏捷 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【转】心念住的开发</title>
       <link href="/2021/04/10/2021-04-10-cittanupassana/"/>
       <url>/2021/04/10/2021-04-10-cittanupassana/</url>

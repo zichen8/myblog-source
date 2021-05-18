@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.easonx.cn/"/>
-  <updated>2021-04-10T13:06:16.176Z</updated>
+  <updated>2021-04-24T08:34:09.992Z</updated>
   <id>https://www.easonx.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工作</title>
+    <link href="https://www.easonx.cn/2021/04/24/2021-04-24-recent-life/"/>
+    <id>https://www.easonx.cn/2021/04/24/2021-04-24-recent-life/</id>
+    <published>2021-04-23T16:00:00.000Z</published>
+    <updated>2021-04-24T08:34:09.992Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>最近工作还算顺利，专注的工作带来不少成果，和团队成员的配合还行。给自己打个7分吧。</strong><a id="more"></a></p><p>我们团队算是不折不扣的敏捷模式，每天早上10点左右15分钟的Daily会议,每两周Sprint结束后有Refine、Review、Retro会议（简称3R）。基本上来了3个多月也熟练了，<br>Scrum Master、Project Owner和开发小伙伴一起开会，领导一般不参与。代码提交Pull Request时会有Code Review，这个过程会在Web上进行Comments，<br>说实话我个人不太喜欢在Web上你一句我一句的Conversations，我喜欢面对面看着IDE工具Code Review然后直接提醒对方改掉。我之前的公司就是这么操作的，而且之前公司准备要进入敏捷模式，<br>似乎也被开发Manager推掉了(感觉是对我们的一种保护，不希望我们开发的时间被掌控的太紧)。 反正不管在Web还是IDE上Code Review，各有各的优缺点。前者公之于众，后者比较隐秘。</p><p>后续我需要注意：<br>1.尽量把分配给自己的事情完成，少给自己揽外部的活。尽管Scrum Master很信任我，总在聊天工具里让我处理一些项目总体的事情：）（正定，减少五盖中的散乱盖）<br>2.一定要确认这次Sprint结束后上线的代码和需求（和Story有时候不一样，Story的表达有时候是按照业务来划分的），有时候随着Sprint进行，受上头领导的影响，范围会变（无常观）。<br>3.尽量少用聊天工具沟通工作，尤其是Sprint一开始讨论技术实现思路的时候，因为打字相对比较耗力耗时，口头沟通可以做到一鼓作气。（正精进）<br>4.真觉得没事情做，不想看电脑也不想听耳机，可以闭上眼睛休息。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;最近工作还算顺利，专注的工作带来不少成果，和团队成员的配合还行。给自己打个7分吧。&lt;/strong&gt;
+    
+    </summary>
+    
+    
+      <category term="daily" scheme="https://www.easonx.cn/categories/daily/"/>
+    
+    
+      <category term="工作" scheme="https://www.easonx.cn/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="敏捷" scheme="https://www.easonx.cn/tags/%E6%95%8F%E6%8D%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>【转】心念住的开发</title>
@@ -514,31 +539,6 @@
     <summary type="html">
     
       &lt;p&gt;投资股票有四个步骤，空仓、买入、持有、卖出。空仓包含了选股的时间，选股是一个相对比较耗费时间的行为，从几千只股票中能否选出好的股票，直接决定了交易的成败。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="invest" scheme="https://www.easonx.cn/categories/invest/"/>
-    
-    
-      <category term="投资" scheme="https://www.easonx.cn/tags/%E6%8A%95%E8%B5%84/"/>
-    
-      <category term="股票" scheme="https://www.easonx.cn/tags/%E8%82%A1%E7%A5%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>股票投资小贴士（壹）</title>
-    <link href="https://www.easonx.cn/2018/07/04/2018-07-04-stock-tips-1/"/>
-    <id>https://www.easonx.cn/2018/07/04/2018-07-04-stock-tips-1/</id>
-    <published>2018-07-03T16:00:00.000Z</published>
-    <updated>2020-07-08T11:05:58.600Z</updated>
-    
-    <content type="html"><![CDATA[<p>本系列文章会总结股票要素的含义和常见词语的解释，类似平时的学习笔记，讲明重点，一目了然。<a id="more"></a><br><br/><br><br/></p><h3 id="日换手率"><a href="#日换手率" class="headerlink" title="日换手率"></a>日换手率</h3><p>计算方法：日成交金额/流通值×100%（以同花顺行情软件为准）。</p><p>换手率如果在10%到20%的区间，是机构大幅介入的股票，可以优先挑选。如果换手率在20%以上，要留意盘面出现异动（上下振幅很大，一天内大跌或大涨等等），随着换手率的增加，相对操作难度要大些。</p><p>如果股票一天的涨幅是8%，换手率只有2.4%及以下，说明主力只需要不多的筹码就可以将股票拉到涨停的位置，这是一支控盘的股票。这个标准，涨幅除以换手率要大于等于3,也就是说，涨幅是8%，如果换手率超过了2.7%，则不能有以上控盘的判断。</p><p>换手率高或低与上涨或下跌无关，换手率指标只说明交易活跃。<br><br/><br><br/></p><h3 id="左侧交易和右侧交易"><a href="#左侧交易和右侧交易" class="headerlink" title="左侧交易和右侧交易"></a>左侧交易和右侧交易</h3><p>左右两侧交易的分水岭是买入信号，买入的信号是一根涨幅较大的K线。要求更严格一些，是大于等于4%(也可以是5%，标准因个人而异，如果做市场上最强的股票，标准可以设高一点)的K线，并且价格要站上重心位（均线所处的位置），价格在重心位以下的阳线不算在内。买入信号出现后买入，右侧交易；买入信号出现之前买入，左侧交易。左侧交易是激进的操作，如果做对，收益比右侧交易要多，一旦做错，股票有继续下挫的风险；右侧交易是稳健的操作，相对收益比左侧交易要少，因为是看到信号再行动，相对风险也比左侧交易要少。</p><p>左侧信号，多用于下跌尾声或超跌反弹的时候；本博主推荐做右侧交易，确认信号后再做打算。<br><br/><br><br/></p><h3 id="超跌反弹"><a href="#超跌反弹" class="headerlink" title="超跌反弹"></a>超跌反弹</h3><p>股价上方20%的空间，只有10%不到的筹码。此含义可通过公式表达出来，指南针软件里的函数是ASR(20,0)&lt;10，可结合CYS (市场盈亏，表示投资者在某一段时间内的平均盈利情况)指标进行进一步的筛选，CYS13 = -5的含义是13天内进场的投资者平均亏损达到了5%。编写公式时，超跌的标准一般是CYS13 &lt; -16。<br>当个股和大盘都达到超跌的情况下，买入后获利的概率最高。超跌反弹属于左侧交易，稳健的投资者可少使用。<br><br/><br><br/><br><img src="http://oo55v79zw.bkt.clouddn.com/waerdaer.jpg-640480" alt="waerdaer"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;本系列文章会总结股票要素的含义和常见词语的解释，类似平时的学习笔记，讲明重点，一目了然。
     
     </summary>
     
